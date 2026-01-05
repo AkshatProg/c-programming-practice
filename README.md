@@ -13,6 +13,15 @@ This repository contains my practice programs while learning C programming funda
 - `ifelse0.c` - If-else conditional programs
 - `nested.c` - Nested loop programs
 - `hi` - Basic C program
+# C Programming Practice
+
+This repository contains C programs covering:
+- if-else statements
+- loops
+- number logic programs
+- pattern printing
+
+Purpose: Strengthen C fundamentals for embedded systems.
 
 
 ## Development Environment
@@ -24,3 +33,4 @@ Compile and run any `.c` file:
 ```bash
 gcc filename.c -o filename
 ./filename
+
