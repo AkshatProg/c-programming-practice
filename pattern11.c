@@ -1,0 +1,29 @@
+/* HW : Print the given pattern
+-------
+1
+12
+123
+1234
+-------
+*/
+
+
+#include <stdio.h>
+
+int main() {
+    int n;
+    printf("enter rows: ");
+    scanf("%d",&n);
+    int a = n;
+   
+for(int i = 1;i <= n;i++){
+        for(int j = 1; j <= a;j++){
+            printf("%d",j);
+        }
+        a--;
+        printf("\n");
+    } 
+    
+    
+    return 0;
+}
