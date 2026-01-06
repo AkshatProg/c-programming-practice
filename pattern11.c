@@ -1,9 +1,10 @@
-/* HW : Print the given pattern
+/*Print the given pattern
 -------
-1
-12
-123
+12345
 1234
+123
+12
+1
 -------
 */
 
