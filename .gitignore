@@ -1,8 +1,7 @@
+
 # binaries
 a.out
-pattern*
-loops*
-test*
+
 *.exe
 
 # vscode
