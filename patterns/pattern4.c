@@ -5,7 +5,7 @@ int main() {
     int m, n;
     printf("enter rows: \n");
     scanf("%d",&m); 
-    printf("enter rows: \n");
+    printf("enter colombs: \n");
     scanf("%d",&n);
     for(int i = 1;i <= m;i++){
         for(int i = 1; i <= n;i++){

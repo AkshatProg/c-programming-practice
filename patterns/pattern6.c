@@ -1,4 +1,9 @@
-// WAP tp print
+/*WAP tp print
+1111
+2222
+3333
+4444
+*/ 
 #include <stdio.h>
 
 int main() {

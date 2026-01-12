@@ -1,4 +1,9 @@
-// WAP tp print
+/*WAP tp print
+*  
+*  *  
+*  *  *  
+*  *  *  *  
+*/ 
 #include <stdio.h>
 
 int main() {
