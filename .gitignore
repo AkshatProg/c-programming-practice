@@ -1,11 +1,10 @@
-
-# binaries
-a.out
-
+# compiled binaries
+*.out
 *.exe
-pattern*
-loops*
-test*
+*.o
+pattern
+loops
+test
 
-# vscode
+# editor junk
 .vscode/
