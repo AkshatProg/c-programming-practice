@@ -1,4 +1,4 @@
-// WAP for Even / Odd with functions
+// WAP for Even / Odd with functions which returns status 0 or 1
 #include <stdio.h>
 int is_even(int n);
 

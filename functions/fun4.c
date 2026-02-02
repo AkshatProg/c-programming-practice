@@ -1,5 +1,6 @@
 // Mini Calculator(sub and add)
 #include <stdio.h>
+// function declarations
 int add(int a, int b);
 int sub(int a, int b);
 
@@ -15,6 +16,7 @@ int main(void) {
     
     return 0;
 }
+// function definitions
 int add(int a, int b){
     return a + b;
 }
