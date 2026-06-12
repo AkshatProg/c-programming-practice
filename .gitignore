@@ -1,0 +1,10 @@
+# compiled binaries
+*.out
+*.exe
+*.o
+pattern
+loops
+test
+
+# editor junk
+.vscode/
